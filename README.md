@@ -13,6 +13,7 @@ You Can Configure the Server Used to Test the Ping and How Many Times You Want t
  - **Program Name: Pingtester**
  -  **Short Description: Pingtester is a Free and Open-source Application for Measuring Ping (Latency).**
  -  **Long Description: /**
+ -  **Version: 1.0.0**
 
 ###### Updated: 18 January 2023
 
