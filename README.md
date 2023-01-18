@@ -7,7 +7,7 @@ PingTester is a free and open source application for measuring ping (latency).
 Firstly, Go to Https://github.com/centralshorts/ Then Click on the Green Button That Says "Code". Next Click on "Download Zip". The File Will Then Be Downloaded as a Zip File. Open the File and Extract It. Just Click on "PingTester.bat".
 
 # Configuring
-You can configure the server used to test the ping. If you are trying to test your ping for a specific game (Fortnite, Minecraft, etc.), Input the server that your chosen game uses. For example: Fortnite uses the Amazon Servers, so put "aws.amazon.com"
+You can configure the server used to test the ping and how many times do you want to ping the chosen server. Changing the number of pings sent to the server could give you more or less accurate results. So more pings takes longer to test the ping, but more accurate results. If you are trying to test your ping for a specific game (Fortnite, Minecraft, etc.), Input the server that your chosen game uses. For example: Fortnite uses the Amazon Servers, so put "aws.amazon.com".
 
 # Details
  - **program Name: PingTester**
