@@ -1,21 +1,20 @@
 
 
 # PingTester
-In Short, PingTester is a free and open source application for measuring ping (latency).
+PingTester is a free and open source application for measuring ping (latency).
 
 # How to Download It?
-Firstly, Go to Https://github.com/centralshorts/ Then Click on the Green Button That Says "Code". Next Click on "Download Zip". The File Will Then Be Downloaded as a Zip File. Open the File and Extract It. Just Click on "Workspace.exe". Enjoy!
+Firstly, Go to Https://github.com/centralshorts/ Then Click on the Green Button That Says "Code". Next Click on "Download Zip". The File Will Then Be Downloaded as a Zip File. Open the File and Extract It. Just Click on "PingTester.bat".
 
 # Details
- - **program Name: Workspace**
- -  **short Description: Workspace is a Drawing Program Made for Smart Boards and Also for Computers.**
+ - **program Name: PingTester**
+ -  **short Description: PingTester is a free and open source application for measuring ping (latency).**
  -  **long Description: /**
- -  **version: (Beta) V0.0.1**
 
 ###### Updated: 18 January 2023
 
 # Important
-As of 18 January 2023 You **cannot** Erase Any of Your Strokes Drawn When There is an Image Imported. Also, This Program Will **not** Be Updated as Much, Since It's Just a Simple Drawing Program. It Will Receive Updates Such as:
+As of 18 January 2023 You **cannot** Erase Any of Your Strokes Drawn When There is an Image Imported. Also, This Program Will **NOT** Be Updated as Much, Since It's Just a Simple Drawing Program. It Will Receive Updates Such as:
 - Ui Updates,
 - New Features,
 - Bug Fixes,
