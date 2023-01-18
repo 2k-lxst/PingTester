@@ -14,16 +14,10 @@ Firstly, Go to Https://github.com/centralshorts/ Then Click on the Green Button 
 ###### Updated: 18 January 2023
 
 # Important
-As of 18 January 2023 You **cannot** Erase Any of Your Strokes Drawn When There is an Image Imported. Also, This Program Will **NOT** Be Updated as Much, Since It's Just a Simple Drawing Program. It Will Receive Updates Such as:
+As of 18 January 2023 You **CANNOT** Erase Any of Your Strokes Drawn When There is an Image Imported. Also, This Program Will **NOT** Be Updated as Much, Since It's Just a Simple Drawing Program. It Will Receive Updates Such as:
 - Ui Updates,
 - New Features,
 - Bug Fixes,
 - Other Changes
 
-Note: When the Program Will Have Enough Features and Updates, the Project Will Probably Be Abandoned and **never** Be Updated Again. Thanks for Understanding.
-
-## Facts About Workspace
-Here Are Some Facts About Workspace:
-- It Was Made by an 11-year-old!
-- I Had to Recover the Project From a Clean Windows Install (It Wasn't Easy)
-- Workspace Was Inspired by a Program a Teacher Used on Her Smart Board.
+Note: When the Program Will Have Enough Features and Updates, the Project Will Probably Be Abandoned and **NEVER** Be Updated Again. Thanks for Understanding.
