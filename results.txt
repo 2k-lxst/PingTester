@@ -1,0 +1,6 @@
+Successfully pinged 142.251.208.142 (google.com) 1 times with 0% loss and the average time of response (ping) of 19ms 
+ 
+IP: 142.251.208.142 (google.com) 
+Pinged: 1 times 
+Packet loss: 0% 
+Average time of response (Ping): 19ms 
