@@ -1,0 +1,17 @@
+
+Pinging dr49lng3n1n2s.cloudfront.net [99.86.235.76] with 32 bytes of data:
+Reply from 99.86.235.76: bytes=32 time=23ms TTL=245
+Reply from 99.86.235.76: bytes=32 time=14ms TTL=245
+Reply from 99.86.235.76: bytes=32 time=13ms TTL=245
+Reply from 99.86.235.76: bytes=32 time=16ms TTL=245
+Reply from 99.86.235.76: bytes=32 time=12ms TTL=245
+Reply from 99.86.235.76: bytes=32 time=16ms TTL=245
+Reply from 99.86.235.76: bytes=32 time=15ms TTL=245
+Reply from 99.86.235.76: bytes=32 time=12ms TTL=245
+Reply from 99.86.235.76: bytes=32 time=17ms TTL=245
+Reply from 99.86.235.76: bytes=32 time=14ms TTL=245
+
+Ping statistics for 99.86.235.76:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 12ms, Maximum = 23ms, Average = 15ms
