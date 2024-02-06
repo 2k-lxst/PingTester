@@ -1,7 +1,5 @@
-
-
-# Pingtester
-Pingtester is a Free and Open-source Application for Measuring Ping (Latency).
+# PingTester
+PingTester is a Free and Open-source Application for Measuring Ping (Latency).
 
 # How to Download It?
 Firstly, Go to https://github.com/CentralShorts/PingTester Then Click on the Green Button That Says "Code". Next Click on "Download Zip". The File Will Then Be Downloaded as a Zip File. Open the File and Extract It. Just Click on "Pingtester.bat".
