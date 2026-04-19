@@ -19,12 +19,19 @@ if errorlevel 1 (
 echo %internet%
 timeout 2 > nul
 
-for /f "delims=" %%x in (config.txt) do (
-   echo Pinging %%
+setlocal enabledelayedexpansion
+set count=0
 
-   for /f "skip=1 delims=" %%i in (config.txt) do (
-      call :ping %%x %%i
-   )
+for /f "delims=" %%a in (config.txt) do (
+    set /a count+=1
+
+    if !count! == 1 (
+        set host=%%a
+    ) else if !count! == 2 (
+        set times=%%a
+        call :ping !host! !times!
+        set count=0
+    )
 )
 
 :ping
