@@ -1,5 +1,5 @@
 @echo off
-title Ping
+title PingTester
 
 set currentDir=%cd%
 echo %currentDir% > resources\path.txt
@@ -8,31 +8,22 @@ Ping www.google.nl -n 1 -w 1000
 cls
 
 if errorlevel 1 (
-
-start resources\mbd.vbs
-
-exit
-
+   start resources\mbd.vbs
+   exit
 ) else (
-
-set internet=Successfully connected to the internet
-timeout 3 > nul
-
+   set internet=Successfully connected to the internet
+   timeout 3 > nul
 )
 
 echo %internet%
 timeout 2 > nul
 
 for /f "delims=" %%x in (config.txt) do (
-
-   echo Pinging %%x
+   echo Pinging %%
 
    for /f "skip=1 delims=" %%i in (config.txt) do (
-
-   call :ping %%x %%i
-
+      call :ping %%x %%i
    )
-
 )
 
 :ping
