@@ -1,19 +1,51 @@
 # PingTester
-PingTester is a Free and Open-source Application for Measuring Ping (Latency).
 
-# How to Download It?
-Firstly, Go to https://github.com/CentralShorts/PingTester Then Click on the Green Button That Says "Code". Next Click on "Download Zip". The File Will Then Be Downloaded as a Zip File. Open the File and Extract It. Just Click on "Pingtester.bat".
+PingTester is a free and open-source application for measuring latency (ping) between your computer and a specified server.
 
-# Configuring
-You Can Configure the Server Used to Test the Ping and How Many Times You Want to Ping the Chosen Server. Changing the Number of Pings Sent to the Server Could Give You More or Less Accurate Results. Therefore More Pings Sent Takes Longer to Test the Ping, but More Accurate Results and Fewer Pings Sent Doesn't Take That Long and You Get Not-so-accurate Results. If You Are Trying to Test Your Ping for a Specific Game (Fortnite, Minecraft, Etc.), Input the Server That Your Chosen Game Uses. For Example: Fortnite Uses Amazon Servers, So Put "aws.amazon.com".
+---
 
-# Details
- - **Program Name: Pingtester**
- -  **Short Description: Pingtester is a Free and Open-source Application for Measuring Ping (Latency).**
- -  **Long Description: /**
- -  **Version: 1.0.0**
+## How to download
 
-###### Updated: 18 January 2023
+1. Go to: https://github.com/2k-lxst/PingTester  
+2. Click the green **Code** button  
+3. Select **Download ZIP**  
+4. Extract the downloaded ZIP file  
+5. Run `Pingtester.bat`
 
-# Important
-Don't Expect an Update for Pingtester Since It Will **NEVER** Be Updated Again.
+---
+
+## Configuration
+
+You can configure:
+- The server used to test ping  
+- The number of pings sent  
+
+### Notes
+
+- Sending **more pings**:
+  - Takes longer  
+  - Produces more accurate results  
+
+- Sending **fewer pings**:
+  - Is faster  
+  - Produces less accurate results  
+
+If you want to test ping for a specific game (e.g. Fortnite, Minecraft), use the server that the game relies on.
+
+**Example:**
+- Fortnite uses Amazon Web Services → use `aws.amazon.com`
+
+---
+
+## Details
+
+- **Program name:** PingTester  
+- **Short description:** PingTester is a free and open-source application for measuring latency (ping) between your computer and a specified server.  
+- **Version:** 1.0.0  
+- **Last updated:** 19 April 2026  
+
+---
+
+## Important
+
+PingTester is no longer maintained and will not receive any future updates.
