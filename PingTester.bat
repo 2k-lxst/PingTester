@@ -5,6 +5,7 @@ set currentDir=%cd%
 echo %currentDir% > resources\path.txt
 
 Ping www.google.nl -n 1 -w 1000
+
 cls
 
 if errorlevel 1 (
